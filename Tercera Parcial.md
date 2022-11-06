@@ -89,3 +89,35 @@ Datos de salida: M
 ![3_DFD_CODE2](https://user-images.githubusercontent.com/113320901/200193484-8dfc00d3-fbb4-41bb-9eb3-5339a0834ab5.png)
 
 ![3_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200193498-fa902546-8100-49d2-95b2-17ac9ec0c487.png)
+
+
+
+## Ejercicio 4.- Rellenar una matriz con números consecutivos hasta _**nxn**_.
+### ANÁLISIS
+Datos de entrada: n\
+Variables: M, n, c, i, j\
+Datos de salida: M
+### DFD
+![4_DFD](https://user-images.githubusercontent.com/113320901/200193757-28ee8f85-cb74-4c91-bb1d-31b5de156986.png)
+
+### PRUEBA DE ESCRITORIO
+|#  |  |  |  |  |  |
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  | |  |
+| 5 |  |  | | |  |
+| 6 |  |  | | |  |
+| 7 |  |  | | |  |
+| 8 |  |  | | |  |
+| 9 |  |  | | |  |
+| 10 |  |  | | |  |
+
+### CÓDIGO EN JAVA
+![4_DFD_CODE1](https://user-images.githubusercontent.com/113320901/200193787-a62258e7-4751-4a46-a8f8-968d9f04097e.png)
+
+![4_DFD_CODE2](https://user-images.githubusercontent.com/113320901/200193795-09a76f9b-4d62-493f-8ff3-b29a62f3b95c.png)
+
+![4_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200193807-6effbdbc-c319-4c40-9085-27e9ceac9beb.png)
+
