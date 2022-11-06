@@ -151,3 +151,37 @@ Datos de salida: M
 ![5_DFD_CODE](https://user-images.githubusercontent.com/113320901/200194130-30698e1f-4809-4a91-a701-fb3cee4cee88.png)
 
 ![5_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200194152-e8f170f8-3ac1-4ad1-a25b-0255eb410d42.png)
+
+
+
+## Ejercicio 6.- Generar una matriz que quede de la siguiente manera:
+1  0  0  0
+0  2  0  0
+0  0  3  0
+0  0  0  4
+
+### ANÁLISIS
+Datos de entrada: ninguno\
+Variables: M, cont, i, j\
+Datos de salida: M
+### DFD
+![6_DFD](https://user-images.githubusercontent.com/113320901/200194603-988d5cdc-935c-4acb-a07f-2dadf84f1d44.png)
+
+### PRUEBA DE ESCRITORIO
+|#  |  |  |  |  |  |
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  | |  |
+| 5 |  |  | | |  |
+| 6 |  |  | | |  |
+| 7 |  |  | | |  |
+| 8 |  |  | | |  |
+| 9 |  |  | | |  |
+| 10 |  |  | | |  |
+
+### CÓDIGO EN JAVA
+![6_DFD_CODE](https://user-images.githubusercontent.com/113320901/200194662-cbb6a1bb-7735-4e1f-86a7-f1d44bc62795.png)
+
+![6_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200194671-24d7509d-d61e-4b48-ab2c-9271944a6afe.png)
