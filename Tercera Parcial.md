@@ -121,3 +121,13 @@ Datos de salida: M
 
 ![4_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200193807-6effbdbc-c319-4c40-9085-27e9ceac9beb.png)
 
+
+
+## Ejercicio 5.- Rellenar una matriz de la siguiente manera:
+![Ejercicio 5](https://user-images.githubusercontent.com/113320901/200193955-529bf597-328f-4e5a-8bd6-0af6feb20cff.png)
+
+### ANÁLISIS
+Datos de entrada: n\
+Variables: M, n, c, i, j\
+Datos de salida: M
+### DFD
