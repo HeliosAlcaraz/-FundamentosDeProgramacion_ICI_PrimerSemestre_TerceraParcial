@@ -155,9 +155,9 @@ Datos de salida: M
 
 
 ## Ejercicio 6.- Generar una matriz que quede de la siguiente manera:
-1  0  0  0
-0  2  0  0
-0  0  3  0
+1  0  0  0\
+0  2  0  0\
+0  0  3  0\
 0  0  0  4
 
 ### ANÁLISIS
