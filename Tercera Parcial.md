@@ -155,10 +155,7 @@ Datos de salida: M
 
 
 ## Ejercicio 6.- Generar una matriz que quede de la siguiente manera:
-1  0  0  0\
-0  2  0  0\
-0  0  3  0\
-0  0  0  4
+![Ejercicio 6](https://user-images.githubusercontent.com/113320901/200194875-a9c29d3b-251c-4218-8eb1-2e73d5be8d9a.png)
 
 ### ANÁLISIS
 Datos de entrada: ninguno\
