@@ -7,7 +7,7 @@ Datos de salida: A, B
 ### DFD
 ![1_DFD](https://user-images.githubusercontent.com/113320901/200151734-3e6f3e39-b306-41e9-87f7-08aeaf5c1b63.png)
 
-#### PRUEBA DE ESCRITORIO (For)
+#### PRUEBA DE ESCRITORIO
 |#  |  |  |  |  |  |
 | ----------- |----------- |----------- |----------- |----------- |----------- |
 | 1 |  |  |  |  |  |
