@@ -22,11 +22,11 @@ Datos de salida: A, B
 | 10 |  |  | | |  |
 
 ### CÓDIGO EN JAVA
-![1_DFD_CODE1](https://user-images.githubusercontent.com/113320901/200151870-a553fb21-ac88-401c-8280-6810b960f093.png)
+![1_DFD_CODE1](https://user-images.githubusercontent.com/113320901/200198880-9f8ef64e-50b0-4757-9a21-4929487f34ac.png)
 
-![1_DFD_CODE2](https://user-images.githubusercontent.com/113320901/200151871-6aeb6025-c78c-475f-9eed-8b3ff70d51ea.png)
+![1_DFD_CODE2](https://user-images.githubusercontent.com/113320901/200198891-c322739a-4a32-443f-afd5-e0d9bb743120.png)
 
-![1_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200151873-086d95f6-67df-41ae-87ea-8610e4ccd83f.png)
+![1_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200198901-4bb459d8-1a23-4d37-910b-79ed9db8f117.png)
 
 
 
