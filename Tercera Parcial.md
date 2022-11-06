@@ -131,3 +131,23 @@ Datos de entrada: n\
 Variables: M, n, c, i, j\
 Datos de salida: M
 ### DFD
+![5_DFD](https://user-images.githubusercontent.com/113320901/200194079-ce0f8df6-436f-414d-8599-576706832ea0.png)
+
+### PRUEBA DE ESCRITORIO
+|#  |  |  |  |  |  |
+| ----------- |----------- |----------- |----------- |----------- |----------- |
+| 1 |  |  |  |  |  |
+| 2 |  |  |  |  |  |
+| 3 |  |  |  |  |  |
+| 4 |  |  |  | |  |
+| 5 |  |  | | |  |
+| 6 |  |  | | |  |
+| 7 |  |  | | |  |
+| 8 |  |  | | |  |
+| 9 |  |  | | |  |
+| 10 |  |  | | |  |
+
+### CÓDIGO EN JAVA
+![5_DFD_CODE](https://user-images.githubusercontent.com/113320901/200194130-30698e1f-4809-4a91-a701-fb3cee4cee88.png)
+
+![5_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200194152-e8f170f8-3ac1-4ad1-a25b-0255eb410d42.png)
