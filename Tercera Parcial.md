@@ -127,8 +127,8 @@ Datos de salida: M
 ![Ejercicio 5](https://user-images.githubusercontent.com/113320901/200193955-529bf597-328f-4e5a-8bd6-0af6feb20cff.png)
 
 ### ANÁLISIS
-Datos de entrada: n\
-Variables: M, n, c, i, j\
+Datos de entrada: num\
+Variables: M, num, i, j\
 Datos de salida: M
 ### DFD
 ![5_DFD](https://user-images.githubusercontent.com/113320901/200194079-ce0f8df6-436f-414d-8599-576706832ea0.png)
