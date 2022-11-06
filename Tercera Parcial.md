@@ -7,7 +7,7 @@ Datos de salida: A, B
 ### DFD
 ![1_DFD](https://user-images.githubusercontent.com/113320901/200151734-3e6f3e39-b306-41e9-87f7-08aeaf5c1b63.png)
 
-#### PRUEBA DE ESCRITORIO
+### PRUEBA DE ESCRITORIO
 |#  |  |  |  |  |  |
 | ----------- |----------- |----------- |----------- |----------- |----------- |
 | 1 |  |  |  |  |  |
@@ -21,7 +21,7 @@ Datos de salida: A, B
 | 9 |  |  | | |  |
 | 10 |  |  | | |  |
 
-#### CÓDIGO EN JAVA
+### CÓDIGO EN JAVA
 ![1_DFD_CODE1](https://user-images.githubusercontent.com/113320901/200151870-a553fb21-ac88-401c-8280-6810b960f093.png)
 
 ![1_DFD_CODE2](https://user-images.githubusercontent.com/113320901/200151871-6aeb6025-c78c-475f-9eed-8b3ff70d51ea.png)
