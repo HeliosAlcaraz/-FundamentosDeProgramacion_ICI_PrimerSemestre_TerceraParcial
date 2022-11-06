@@ -29,6 +29,7 @@ Datos de salida: A, B
 ![1_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200151873-086d95f6-67df-41ae-87ea-8610e4ccd83f.png)
 
 
+
 ## Ejercicio 2.- Utilizando una matriz, capturar la edad y semestre de _**n**_ estudiantes.
 ### ANÁLISIS
 Datos de entrada: n, edad, sem\
@@ -57,6 +58,7 @@ Datos de salida: M
 ![2_DFD_CODE2](https://user-images.githubusercontent.com/113320901/200193328-2ee48f5e-d216-40e7-bd78-134c31a87944.png)
 
 ![2_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200193336-0a53f81c-2941-46bc-a440-7138d487ce6f.png)
+
 
 
 ## Ejercicio 3.- Rellenar una matriz cuadrada de _**nxn**_ con un número leído del teclado.
