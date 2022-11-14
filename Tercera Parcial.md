@@ -241,7 +241,7 @@ Datos de salida: A
 ![7_DFD](https://user-images.githubusercontent.com/113320901/201566876-ef859989-5cb1-4d5e-b04c-e1d1df1c6c8c.png)
 
 ### PRUEBA DE ESCRITORIO
-####Llenado de la matriz
+Llenado de la matriz
 |#  |  n   |cont| n<1 OR n>100   | i | i<n | j | j<n |M[i,j]=cont|cont++| j++ | i++ |
 |-- |----- |--- |--------------- |-- |---- |-- |---- |---------- |----- |---- |---- |
 | 1 |  2   | 1  | 2<1 OR 2>100 no| 0 | 0<2 | 0 | 0<2 | M[0,0]=1  |  2   |  1  |  -  |
@@ -252,7 +252,8 @@ Datos de salida: A
 | 6 |  2   | 5  | 2<1 OR 2>100 no| 1 | 1<2 | 2 | 2<2 |     -     |  -   |  -  |  2  |
 | 7 |  2   | 5  | 2<1 OR 2>100 no| 2 | 2<2 | - |  -  |     -     |  -   |  -  |  -  |
 
-####Pase de elementos de la matriz al vector
+Pase de elementos de la matriz al vector
 |#  |  n   | c | i | i<n | j | j<n |A[c]=M[i,j]|c++| j++ | i++ |
 |-- |----- |-- |-- |---- |-- |---- |---------- |-- |---- |---- |
-| 1 |  2   | 0 | 0 | 0<2 | 0 | 0<2 |A[c]=M[i,j]|   |     |     |
+| 1 |  2   | 0 | 0 | 0<2 | 0 | 0<2 |A[0]=M[0,0]| 1 |  1  |  -  |
+| 2 |  2   | 1 | 0 | 0<2 | 1 | 1<2 |A[1]=M[0,1]| 2 |  2  |  -  |
