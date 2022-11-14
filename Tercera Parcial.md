@@ -228,3 +228,13 @@ Datos de salida: M
 ![6_DFD_CODE](https://user-images.githubusercontent.com/113320901/200194662-cbb6a1bb-7735-4e1f-86a7-f1d44bc62795.png)
 
 ![6_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/200194671-24d7509d-d61e-4b48-ab2c-9271944a6afe.png)
+
+
+
+## Ejercicio 7.- Convertir una matriz de nxn a un array (vector).
+
+### ANÁLISIS
+Datos de entrada: n\
+Variables: A, M, n, c, cont, i, j\
+Datos de salida: A
+### DFD
