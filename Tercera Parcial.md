@@ -200,9 +200,10 @@ Datos de salida: M
 ![6_DFD](https://user-images.githubusercontent.com/113320901/200194603-988d5cdc-935c-4acb-a07f-2dadf84f1d44.png)
 
 ### PRUEBA DE ESCRITORIO
-|#  | cont | i |  i<4  | j | j<4 |i==j| M[j,i]=cont | cont++ | j++ | i++ |
-|-- |----- |-- |------ |-- |---- |--- |------------ |------- |---- |---- |
-| 1 |      |   |       |   |     |    |             |        |     |     |
+|#  | cont | i |  i<4  | j | j<4 |  i==j  | M[j,i]=cont | cont++ | j++ | i++ |
+|-- |----- |-- |------ |-- |---- |------- |------------ |------- |---- |---- |
+| 1 |  1   | 0 |  0<4  | 0 | 0<4 |0==0 sí |  M[0,0]=1   |   2    |  1  |  -  |
+| 2 |  2   | 0 |  0<4  | 1 | 1<4 |0==1 no |      -      |   -    |  2  |  -  |
 
 ### CÓDIGO EN JAVA
 ![6_DFD_CODE](https://user-images.githubusercontent.com/113320901/200194662-cbb6a1bb-7735-4e1f-86a7-f1d44bc62795.png)
