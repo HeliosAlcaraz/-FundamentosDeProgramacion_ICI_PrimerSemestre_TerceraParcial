@@ -238,3 +238,9 @@ Datos de entrada: n\
 Variables: A, M, n, c, cont, i, j\
 Datos de salida: A
 ### DFD
+![7_DFD](https://user-images.githubusercontent.com/113320901/201566876-ef859989-5cb1-4d5e-b04c-e1d1df1c6c8c.png)
+
+### PRUEBA DE ESCRITORIO
+|#  |      |   |       |   |     |        |             |        |     |     |
+|-- |----- |-- |------ |-- |---- |------- |------------ |------- |---- |---- |
+| 1 |      |   |       |   |     |        |             |        |     |     |
