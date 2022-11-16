@@ -238,7 +238,7 @@ Datos de entrada: n\
 Variables: A, M, n, c, cont, i, j\
 Datos de salida: A
 ### DFD
-![7_DFD](https://user-images.githubusercontent.com/113320901/201566876-ef859989-5cb1-4d5e-b04c-e1d1df1c6c8c.png)
+![7_DFD](https://user-images.githubusercontent.com/113320901/202078205-e0b81507-0cf6-425d-bb8c-5141ad403bb0.png)
 
 ### PRUEBA DE ESCRITORIO
 __Llenado de la matriz__
