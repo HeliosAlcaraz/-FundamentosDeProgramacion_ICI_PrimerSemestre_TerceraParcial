@@ -271,3 +271,11 @@ __Mostrar los elementos del vector__
 | 3 |  2  | 2 | 2<(2*2) | A[2] |  3  |
 | 4 |  2  | 3 | 3<(2*2) | A[3] |  4  |
 | 5 |  2  | 4 | 4<(2*2) |  -   |  -  |
+
+### CÓDIGO EN JAVA
+![7_DFD_CODE1](https://user-images.githubusercontent.com/113320901/202329601-0e557483-0812-4f0d-bb8e-7550361d57f3.png)
+
+![7_DFD_CODE2](https://user-images.githubusercontent.com/113320901/202329623-a5715033-4b61-4440-b311-c25a30da2978.png)
+
+![7_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/202329640-a68d2d95-40e9-4efd-a1da-edcdd7313efa.png)
+
