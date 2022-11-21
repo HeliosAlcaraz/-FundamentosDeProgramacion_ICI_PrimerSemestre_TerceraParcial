@@ -279,3 +279,12 @@ __Mostrar los elementos del vector__
 
 ![7_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/202329640-a68d2d95-40e9-4efd-a1da-edcdd7313efa.png)
 
+
+
+## Ejercicio 9.- Pregunte las dimensiones de una matriz. El rango es [5,5]. Valide que sea cuadrada y obtenga la suma de la diagonal principal y la inversa. Determine cuál es mayor. Pregunte los valores para llenar la matriz.
+
+### ANÁLISIS
+Datos de entrada: num\
+Variables: M, sum, sum2, num i, j\
+Datos de salida: "Diagonal principal es mayor" o "Diagonal inversa es mayor"
+### DFD
