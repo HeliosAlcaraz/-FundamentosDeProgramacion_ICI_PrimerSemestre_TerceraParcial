@@ -288,3 +288,4 @@ Datos de entrada: num\
 Variables: M, sum, sum2, num i, j\
 Datos de salida: "Diagonal principal es mayor" o "Diagonal inversa es mayor"
 ### DFD
+![9_DFD](https://user-images.githubusercontent.com/113320901/203457353-18525f67-3802-4e2a-91c6-c74dea33a73d.png)
