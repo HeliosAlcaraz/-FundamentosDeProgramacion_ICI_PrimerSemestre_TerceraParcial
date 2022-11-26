@@ -285,7 +285,7 @@ __Mostrar los elementos del vector__
 
 ### ANÁLISIS
 Datos de entrada: num\
-Variables: M, sum, sum2, num i, j\
+Variables: M, sum, sum2, num, i, j\
 Datos de salida: "Diagonal principal es mayor" o "Diagonal inversa es mayor"
 ### DFD
 ![9_DFD](https://user-images.githubusercontent.com/113320901/204063853-1c403620-f037-4721-a45a-1d0194e3dcc4.png)
@@ -304,3 +304,12 @@ Datos de salida: "Diagonal principal es mayor" o "Diagonal inversa es mayor"
 
 ![9_DFD_CODE_RUN2](https://user-images.githubusercontent.com/113320901/204065418-e8e71902-049d-4a16-887f-f3f00e02ab63.png)
 
+
+
+## Ejercicio 10.- Almacenar en un array la sumatoria de los números desde uno hasta _**n**_ en cada posición del array (vector). Ejemplo: si _**n**_=3, el array deberá ser 1, 3, 6.
+
+### ANÁLISIS
+Datos de entrada: num\
+Variables: A, num, a, b, c, i\
+Datos de salida: A
+### DFD
