@@ -294,3 +294,13 @@ Datos de salida: "Diagonal principal es mayor" o "Diagonal inversa es mayor"
 |#  |      |    |                |   |     |   |     |           |      |     |     |
 |-- |----- |--- |--------------- |-- |---- |-- |---- |---------- |----- |---- |---- |
 | 1 |      |    |                |   |     |   |     |           |      |     |     |
+
+### CÓDIGO EN JAVA
+![9_DFD_CODE1](https://user-images.githubusercontent.com/113320901/204065410-0d23bfbd-8919-488b-a800-2b241296bdea.png)
+
+![9_DFD_CODE2](https://user-images.githubusercontent.com/113320901/204065415-5084dd0c-7ca4-482c-b518-d8a1d57bf554.png)
+
+![9_DFD_CODE_RUN1](https://user-images.githubusercontent.com/113320901/204065417-8ac278cb-b794-4648-adfc-64720216ecd5.png)
+
+![9_DFD_CODE_RUN2](https://user-images.githubusercontent.com/113320901/204065418-e8e71902-049d-4a16-887f-f3f00e02ab63.png)
+
