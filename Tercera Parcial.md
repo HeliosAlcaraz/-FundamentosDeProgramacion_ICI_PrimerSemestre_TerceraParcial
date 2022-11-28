@@ -313,3 +313,14 @@ Datos de entrada: num\
 Variables: A, num, a, b, c, i\
 Datos de salida: A
 ### DFD
+
+
+### PRUEBA DE ESCRITORIO
+|#  |      |    |                |   |     |   |     |           |      |     |     |
+|-- |----- |--- |--------------- |-- |---- |-- |---- |---------- |----- |---- |---- |
+| 1 |      |    |                |   |     |   |     |           |      |     |     |
+
+### CÓDIGO EN JAVA
+![10_DFD_CODE](https://user-images.githubusercontent.com/113320901/204191038-7426ba12-e3a9-400c-af9c-9e5d55eb1a39.png)
+
+![10_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/204191053-0eedd417-ecc7-4701-880d-eea572ef750f.png)
