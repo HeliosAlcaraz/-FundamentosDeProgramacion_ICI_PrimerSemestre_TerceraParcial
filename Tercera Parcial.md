@@ -309,6 +309,8 @@ __Suma de elementos de la diagonal principal de la matriz__
 |#  | sum  |sum2| num | i | i<5  | j | j<5  |  i==j  |sum=sum+num| j++ | i++ |
 |-- |----- |--- |---- |-- |----- |-- |----- |------- |---------- |---- |---- |
 | 1 |  0   |  0 |  2  | 0 |0<5 sí| 0 |0<5 sí| 0==0 sí|  sum=0+2  |  1  |  -  |
+| 2 |  2   |  0 |  8  | 0 |0<5 sí| 1 |1<5 sí| 0==1 no|     -     |  2  |  -  |
+| 3 |  2   |  0 |  9  | 0 |0<5 sí| 2 |2<5 sí| 0==2 no|     -     |  3  |  -  |
 
 __Suma de elementos de la diagonal inversa de la matriz__
 |#  | sum  |sum2| num | i | i<5  | j | j<5  | i+j==4 |sum2=sum2+num| j++ | i++ |
