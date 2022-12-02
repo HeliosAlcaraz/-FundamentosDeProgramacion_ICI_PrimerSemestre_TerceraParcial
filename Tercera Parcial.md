@@ -304,8 +304,10 @@ __Llenado de la matriz__
 | 8 | 1 |1<5 sí| 1 |1<5 sí|  2  | M[1,1]=2  |  2  |  -  |
 | 9 | 1 |1<5 sí| 2 |2<5 sí|  6  | M[1,2]=6  |  3  |  -  |
 |10 | 1 |1<5 sí| 3 |3<5 sí|  7  | M[1,3]=7  |  4  |  -  |
+|11 | 1 |1<5 sí| 4 |4<5 sí|  6  | M[1,4]=6  |  5  |  -  |
+|12 | 1 |1<5 sí| 5 |5<5 no|  -  |      -    |  -  |  2  |
 
-__Suma de elementos de la diagonal principal de la matriz__
+__Suma de los elementos de la diagonal principal de la matriz__
 |#  | sum  |sum2| num | i | i<5  | j | j<5  |  i==j  |sum=sum+num| j++ | i++ |
 |-- |----- |--- |---- |-- |----- |-- |----- |------- |---------- |---- |---- |
 | 1 |  0   |  0 |  2  | 0 |0<5 sí| 0 |0<5 sí| 0==0 sí|  sum=0+2  |  1  |  -  |
@@ -321,10 +323,15 @@ __Suma de elementos de la diagonal principal de la matriz__
 |11 |  4   |  0 |  6  | 1 |1<5 sí| 4 |4<5 sí| 1==4 no|     -     |  5  |  -  |
 |12 |  4   |  0 |  7  | 1 |1<5 sí| 5 |5<5 no|    -   |     -     |  -  |  2  |
 
-__Suma de elementos de la diagonal inversa de la matriz__
-|#  | sum  |sum2| num | i | i<5  | j | j<5  | i+j==4 |sum2=sum2+num| j++ | i++ |
-|-- |----- |--- |---- |-- |----- |-- |----- |------- |------------ |---- |---- |
-| 1 |  0   |  0 |  2  | 0 |0<5 sí| 0 |0<5 sí|        |             |  1  |  -  |
+__Suma de los elementos de la diagonal inversa de la matriz__
+|#  | sum  |sum2| num | i | i<5  | j | j<5  |  i+j==4  |sum2=sum2+num| j++ | i++ |
+|-- |----- |--- |---- |-- |----- |-- |----- |--------- |------------ |---- |---- |
+| 1 |  0   |  0 |  2  | 0 |0<5 sí| 0 |0<5 sí| 0+0==4 no|      -      |  1  |  -  |
+| 2 |  0   |  0 |  8  | 0 |0<5 sí| 1 |1<5 sí| 0+1==4 no|      -      |  2  |  -  |
+| 3 |  0   |  0 |  9  | 0 |0<5 sí| 2 |2<5 sí| 0+2==4 no|      -      |  3  |  -  |
+| 4 |  0   |  0 |  4  | 0 |0<5 sí| 3 |3<5 sí| 0+3==4 no|      -      |  4  |  -  |
+| 5 |  0   |  0 |  5  | 0 |0<5 sí| 4 |4<5 sí| 0+4==4 sí|   sum2=0+5  |  5  |  -  |
+| 6 |  0   |  5 |  -  | 0 |0<5 sí| 5 |5<5 no|     -    |      -      |  -  |  1  |
 
 ### CÓDIGO EN JAVA
 ![9_DFD_CODE1](https://user-images.githubusercontent.com/113320901/204065410-0d23bfbd-8919-488b-a800-2b241296bdea.png)
