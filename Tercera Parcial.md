@@ -306,14 +306,14 @@ __Llenado de la matriz__
 |10 | 1 |1<5 sí| 3 |3<5 sí|  7  | M[1,3]=7  |  4  |  -  |
 
 __Suma de elementos de la diagonal principal de la matriz__
-|#  | sum  |sum2| num | i | i<5 | j | j<5 | j++ | i++ |           |      |     |     |
-|-- |----- |--- |---- |-- |---- |-- |---- |---- |---- |---------- |----- |---- |---- |
-| 1 |  0   |  0 |     |   |     |   |     |     |     |           |      |     |     |
+|#  | sum  |sum2| num | i | i<5  | j | j<5  |  i==j  |sum=sum+num| j++ | i++ |
+|-- |----- |--- |---- |-- |----- |-- |----- |------- |---------- |---- |---- |
+| 1 |  0   |  0 |  2  | 0 |0<5 sí| 0 |0<5 sí| 0==0 sí|  sum=0+2  |  1  |  -  |
 
 __Suma de elementos de la diagonal inversa de la matriz__
-|#  | sum  |sum2| num | i | i<5 | j | j<5 | j++ | i++ |           |
-|-- |----- |--- |---- |-- |---- |-- |---- |---- |---- |---------- |
-| 1 |  0   |  0 |     |   |     |   |     |     |     |           |
+|#  | sum  |sum2| num | i | i<5  | j | j<5  | i+j==4 |sum2=sum2+num| j++ | i++ |
+|-- |----- |--- |---- |-- |----- |-- |----- |------- |------------ |---- |---- |
+| 1 |  0   |  0 |  2  | 0 |0<5 sí| 0 |0<5 sí|        |             |  1  |  -  |
 
 ### CÓDIGO EN JAVA
 ![9_DFD_CODE1](https://user-images.githubusercontent.com/113320901/204065410-0d23bfbd-8919-488b-a800-2b241296bdea.png)
