@@ -316,6 +316,10 @@ __Suma de elementos de la diagonal principal de la matriz__
 | 6 |  2   |  0 |  -  | 0 |0<5 sí| 5 |5<5 no|    -   |     -     |  -  |  1  |
 | 7 |  2   |  0 |  5  | 1 |1<5 sí| 0 |0<5 sí| 1==0 no|     -     |  1  |  -  |
 | 8 |  2   |  0 |  2  | 1 |1<5 sí| 1 |1<5 sí| 1==1 sí|  sum=2+2  |  2  |  -  |
+| 9 |  4   |  0 |  6  | 1 |1<5 sí| 2 |2<5 sí| 1==2 no|     -     |  3  |  -  |
+|10 |  4   |  0 |  7  | 1 |1<5 sí| 3 |3<5 sí| 1==3 no|     -     |  4  |  -  |
+|11 |  4   |  0 |  6  | 1 |1<5 sí| 4 |4<5 sí| 1==4 no|     -     |  5  |  -  |
+|12 |  4   |  0 |  7  | 1 |1<5 sí| 5 |5<5 no|    -   |     -     |  -  |  2  |
 
 __Suma de elementos de la diagonal inversa de la matriz__
 |#  | sum  |sum2| num | i | i<5  | j | j<5  | i+j==4 |sum2=sum2+num| j++ | i++ |
