@@ -376,7 +376,7 @@ Datos de salida: A
 
 
 
-## Ejercicio 11.- Dada una matriz de _**nxm**_ , almacenar en un vector los números mayores por renglón.
+## Ejercicio 11.- Dada una matriz de _**nxm**_, almacenar en un vector los números mayores de cada renglón de la matriz.
 
 ### ANÁLISIS
 Datos de entrada: \
