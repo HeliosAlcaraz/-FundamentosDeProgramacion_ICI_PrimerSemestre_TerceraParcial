@@ -373,3 +373,13 @@ Datos de salida: A
 ![10_DFD_CODE](https://user-images.githubusercontent.com/113320901/204191038-7426ba12-e3a9-400c-af9c-9e5d55eb1a39.png)
 
 ![10_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/204191053-0eedd417-ecc7-4701-880d-eea572ef750f.png)
+
+
+
+## Ejercicio 11.- Dada una matriz de _**nxm**_ , almacenar en un vector los números mayores por renglón.
+
+### ANÁLISIS
+Datos de entrada: \
+Variables: A, M, i, j\
+Datos de salida: A
+### DFD
