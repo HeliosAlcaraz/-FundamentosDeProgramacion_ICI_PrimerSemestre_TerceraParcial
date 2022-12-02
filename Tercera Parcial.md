@@ -291,9 +291,15 @@ Datos de salida: "Diagonal principal es mayor" o "Diagonal inversa es mayor"
 ![9_DFD](https://user-images.githubusercontent.com/113320901/204063853-1c403620-f037-4721-a45a-1d0194e3dcc4.png)
 
 ### PRUEBA DE ESCRITORIO
-|#  |      |    |                |   |     |   |     |           |      |     |     |
-|-- |----- |--- |--------------- |-- |---- |-- |---- |---------- |----- |---- |---- |
-| 1 |      |    |                |   |     |   |     |           |      |     |     |
+__Llenado de la matriz__
+|#  | sum  |sum2| num | i | i<5 | j | j<5 |M[i,j]=num |
+|-- |----- |--- |---- |-- |---- |-- |---- |---------- |
+| 1 |      |    |     |   |     |   |     |           |
+
+__Suma de elementos de la diagonal principal de la matriz__
+|#  | sum  |sum2| num | i | i<5 | j | j<5 |           |      |     |     |
+|-- |----- |--- |---- |-- |---- |-- |---- |---------- |----- |---- |---- |
+| 1 |      |    |     |   |     |   |     |           |      |     |     |
 
 ### CÓDIGO EN JAVA
 ![9_DFD_CODE1](https://user-images.githubusercontent.com/113320901/204065410-0d23bfbd-8919-488b-a800-2b241296bdea.png)
