@@ -398,6 +398,10 @@ Datos de salida: M, A
 | 8 |  2  |  3  |   M[2,3]  | 1 | 1<2 | 3 | 3<3 |  -  |      -     |  -  |  2  |
 | 9 |  2  |  3  |   M[2,3]  | 2 | 2<2 | - |  -  |  -  |      -     |  -  |  -  |
 
+|#  |mayor| num | i | i<n | j | j<m |  mayor<M[i,j]  |mayor=M[i,j]| A[i]=mayor    | j++ | i++ |
+|-- |---- |---- |-- |---- |-- |---- |--------------- |----------- |-------------- |---- |---- |
+| 1 |  0  |  1  | 0 | 0<2 | 0 | 0<3 |     0<1 sí     |   mayor=1  |       -       |  1  |  -  |
+
 ### CÓDIGO EN JAVA
 ![11_DFD_CODE1](https://user-images.githubusercontent.com/113320901/205471795-b83c59c2-d05b-42e6-bc5e-8e1826c2b097.png)
 
