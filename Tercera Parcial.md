@@ -379,7 +379,8 @@ Datos de salida: A
 ## Ejercicio 11.- Dada una matriz de _**nxm**_, almacenar en un vector los números mayores de cada renglón de la matriz.
 
 ### ANÁLISIS
-Datos de entrada: \
-Variables: A, M, i, j\
-Datos de salida: A
+Datos de entrada: n, m, num\
+Variables: A, M, i, j, n, m, num\
+Datos de salida: M, A
 ### DFD
+![11_DFD](https://user-images.githubusercontent.com/113320901/205471291-3aeeb61d-9721-42a6-bcb1-1a3023540066.png)
