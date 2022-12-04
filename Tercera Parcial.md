@@ -380,7 +380,14 @@ Datos de salida: A
 
 ### ANÁLISIS
 Datos de entrada: n, m, num\
-Variables: A, M, i, j, n, m, num\
+Variables: A, M, i, j, n, m, num, mayor\
 Datos de salida: M, A
 ### DFD
 ![11_DFD](https://user-images.githubusercontent.com/113320901/205471291-3aeeb61d-9721-42a6-bcb1-1a3023540066.png)
+
+### PRUEBA DE ESCRITORIO
+|#  |      |     |           |          |     |       |       |        |     |     |     |   |
+|-- |----- |---- |---------- |--------- |---- |------ |------ |------- |---- |---- |---- |-- |
+| 1 |      |     |           |          |     |       |       |        |     |     |     |   |
+
+### CÓDIGO EN JAVA
