@@ -391,3 +391,10 @@ Datos de salida: M, A
 | 1 |      |     |           |          |     |       |       |        |     |     |     |   |
 
 ### CÓDIGO EN JAVA
+![11_DFD_CODE1](https://user-images.githubusercontent.com/113320901/205471795-b83c59c2-d05b-42e6-bc5e-8e1826c2b097.png)
+
+![11_DFD_CODE2](https://user-images.githubusercontent.com/113320901/205471801-583d4785-bd5f-40ce-9bf2-bfcd8e1af418.png)
+
+![11_DFD_CODE3](https://user-images.githubusercontent.com/113320901/205471808-a96da889-40ea-4ec5-8375-3afe260c122b.png)
+
+![11_DFD_CODE_RUN](https://user-images.githubusercontent.com/113320901/205471825-c4038cad-bec9-4cb7-a574-e5c996173374.png)
