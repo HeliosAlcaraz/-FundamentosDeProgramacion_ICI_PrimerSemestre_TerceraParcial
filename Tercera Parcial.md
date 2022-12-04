@@ -425,6 +425,13 @@ __Mostrar los elementos de la matriz__
 | 8 | 1 | 1<2 | 3 | 3<3 |     -    |  -  |  2  |
 | 9 | 2 | 2<2 | - |  -  |     -    |  -  |  -  |
 
+__Mostrar los elementos del vector (contiene los números mayores por renglón de la matriz dada)__
+|#  | i | i<n | A[i] |"El mayor de la fila "+(i+1)+": "+A[i]| i++ |
+|-- |-- |---- |----- |------------------------------------- |---- |
+| 1 | 0 | 0<2 |  3   | El mayor de la fila 1: 3             |  1  |
+| 2 | 1 | 1<2 |  9   | El mayor de la fila 2: 9             |  2  |
+| 3 | 2 | 2<2 |  -   |                    -                 |  -  |
+
 ### CÓDIGO EN JAVA
 ![11_DFD_CODE1](https://user-images.githubusercontent.com/113320901/205471795-b83c59c2-d05b-42e6-bc5e-8e1826c2b097.png)
 
